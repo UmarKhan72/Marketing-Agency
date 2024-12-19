@@ -1,0 +1,10 @@
+1) Bootstrap works on 6 screens.
+xxl,xl,lg,md,sm,xs.
+*xxl=1400px min width.*
+*xl=1200px min width*
+*lg=992px min width*
+*md=768px min width*
+*sm=576px min width*
+*xs=opx min width*
+
+2) Bootstrap works on 12 columns
